@@ -4,9 +4,13 @@ imgExplorer
 #### 文件夹结构
 >imgexplorer
 >>imgExplorer_V0320.exe
+
 >>projectInfo.csv
+
 >>tags.csv
+
 >>img3
+
 >>>1
 >>>2
 >>>3
