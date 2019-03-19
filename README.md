@@ -7,10 +7,8 @@ imgExplorer
 >>>1
 >>>>1
 >>>>2
->>>>...
 >>>2
 >>>3
->>>...
 >>imgExplorer_V0320.exe
 >>projectInfo.csv
 >>tags.csv
